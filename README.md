@@ -19,7 +19,7 @@ Or install from source:
 ```bash
 git clone https://github.com/siray-ai/siray-python.git
 cd siray-python
-pip install -e .
+pip install .
 ```
 
 ## Quick Start
@@ -298,7 +298,7 @@ cd siray-python
 pip install -r requirements-dev.txt
 
 # Install package in editable mode
-pip install -e .
+pip install .
 ```
 
 ### Running Tests

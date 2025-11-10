@@ -134,7 +134,7 @@ def main():
         print("\n✓ All verification tests passed!")
         print("\nNext steps:")
         print("1. Set your API key: export SIRAY_API_KEY='your-api-key'")
-        print("2. Install the SDK: pip install -e .")
+        print("2. Install the SDK: pip install .")
         print("3. Try the examples: python examples/image_generation.py")
         return 0
     else:
